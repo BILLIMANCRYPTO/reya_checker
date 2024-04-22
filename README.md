@@ -8,4 +8,5 @@ pip install requests
 python main.py
 
 Лог:
+
 Wallet: Адрес вашего кошелька, Deposited: Сумма депозита , XP: Ваши поинты, Boost: Ваш множитель
