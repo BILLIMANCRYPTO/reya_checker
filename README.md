@@ -5,7 +5,7 @@
 pip install requests
 
 Запустить:
-python main.py
+python reya.py
 
 Лог:
 
